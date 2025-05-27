@@ -1,13 +1,13 @@
 # Claude 中文版：Claude 3.7 Sonnet 国内使用指南 【2025年5月更新】
 
-> **更新时间：2025-05-27**                
+> **更新时间：2025-05-28**                
 
 国内轻松使用 [**Claude 中文版**](https://chat.lanjing.pro)，**国内直连，无需翻墙**，**支持 Claude 3.7 Sonnet 及中文版功能**   
 
 本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://chat.lanjing.pro)、[**Claude 网页版**](https://xsimplechat.com)、[**Claude 国内镜像网站**](https://chat.lanjing.pro) 和详细的使用教程，助您快速上手 Claude~
 
-**Claude 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
-**Claude 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
+**Claude 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**Claude 镜像网站：[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
